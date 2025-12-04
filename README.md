@@ -10,7 +10,7 @@ I have really found a passion for low level programming and hardware engineering
 * ✉️  You can contact me at [saidovanvar862@gmail.com](mailto:saidovanvar862@gmail.com)
 * 🧠  I'm learning Assembly and C
 * 🤝  I'm open to collaborating on web-based projects
-* ⚡  I love C/C++ , Rust and Go
+* ⚡  I love C/C++ and Go
 
 <a href="https://www.github.com/anvarsaidovsh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anvarsaidovsh?logo=github&style=for-the-badge&color=0891b2&labelColor=1e3a8a" /></a><a href="https://www.x.com/anvar_saidov_sh" target="_blank" rel="noreferrer"><img
