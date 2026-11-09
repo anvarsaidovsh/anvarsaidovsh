@@ -1,7 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anvar Saidov
-====================================================================================================================================
-
-Software Engineer and Computer Science Student
+Computer Science Student
 ----------------------------------------------
 
 I have really found a passion for low level programming and hardware engineering.
@@ -79,16 +76,7 @@ src="https://img.shields.io/twitch/status/anvar_saidov_sh?logo=twitchsx&style=fo
     </picture> 
   </a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/anvarsaidovsh"><img src="https://github-readme-stats.vercel.app/api?username=anvarsaidovsh&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="anvarsaidovsh's GitHub stats" /></a>
-
 <a href="http://www.github.com/anvarsaidovsh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anvarsaidovsh&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/anvarsaidovsh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvarsaidovsh&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 **anvarsaidovsh/anvarsaidovsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
